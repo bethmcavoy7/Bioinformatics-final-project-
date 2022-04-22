@@ -1,3 +1,5 @@
+% generated knn model from the matlab built in application Classification Learner
+
 function [pred, knn_label, knn_ind] = knn(querys, trains, labels, k, distance, dist_func)
 
 % function to calculate single-shot k-nearest-neighbour
