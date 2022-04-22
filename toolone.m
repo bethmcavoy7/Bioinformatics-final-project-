@@ -1,3 +1,5 @@
+% generated trained knn model from the matlab built in application Classification Learner
+
 function [trainedClassifier, validationAccuracy] = trainClassifier(trainingData)
 
 inputTable = trainingData;
